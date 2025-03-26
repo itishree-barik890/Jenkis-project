@@ -8,5 +8,7 @@ public class App {
         int result = app.add(2, 3);
         System.out.println("2 + 3 = " + result);
         System.out.println("Application executed successfully!");
+         System.out.println("project sucesssfully executed");
+
     }
 }
